@@ -3,12 +3,12 @@
    <parent>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>plugin</artifactId>
-      <version>1.509.4</version><!-- which version of Jenkins is this plugin built against? -->
+      <version>1.609.2</version><!-- which version of Jenkins is this plugin built against? -->
    </parent>
 
    <groupId>org.jenkins-ci.plugins</groupId>
    <artifactId>unitth</artifactId>
-   <version>1.2.0</version>
+   <version>1.2.1</version>
    <packaging>hpi</packaging>
    <name>Test History Plugin</name>
 
